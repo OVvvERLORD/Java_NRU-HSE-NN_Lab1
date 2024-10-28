@@ -1,3 +1,4 @@
+import java.util.Arrays;
 public class Matrix{
     int size_row;
     int size_col;
